@@ -32,4 +32,4 @@ It supports basic arithmetic operations:
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Modern-Calculator.git
+   git clone https://github.com/DiyaRana7/codsoft_task_2.git
